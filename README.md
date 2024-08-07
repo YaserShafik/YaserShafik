@@ -1,7 +1,10 @@
 # Hi there! 👋
 
 ## General Description
-I'm a passionate Backend Developer specialized in Node.js, Express.js, Python, and MongoDB. 💻 My constant motivation to learn and grow is driven by my desire to provide new and engaging content for my students. 📚 I love sharing my knowledge and tech curiosities on social media, fostering a community of learners and tech enthusiasts. 🌐 My curiosity in the tech world keeps me exploring and innovating continuously. 🚀
+I'm a passionate Backend Developer specialized in Node.js, Express.js, Python, and MongoDB. 💻 
+My constant motivation to learn and grow is driven by my desire to provide new and engaging content for my students. 📚 
+I love sharing my knowledge and tech curiosities on social media, fostering a community of learners and tech enthusiasts. 🌐 
+My curiosity in the tech world keeps me exploring and innovating continuously. 🚀
 
 ## My Objectives
 - To continuously improve my backend development skills and stay updated with the latest technologies. 🔄
