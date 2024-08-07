@@ -7,16 +7,14 @@ I love sharing my knowledge and tech curiosities on social media, fostering a co
 My curiosity in the tech world keeps me exploring and innovating continuously. 🚀
 
 ## My Objectives
-- To continuously improve my backend development skills and stay updated with the latest technologies. 🔄
-- To create and share educational content that helps my students and the wider community grow their programming skills. 🎓
-- To contribute to open source projects that make a difference. 🌟
+- To continuously improve my backend development skills and stay updated with the latest technologies. 
+- To create and share educational content that helps my students and the wider community grow their programming skills. 
+- Learn ElasticSearch. 
+- To contribute to open source projects that make a difference. 
 
 ## Ask Me About
-- Backend development with Node.js, Express.js, and Python. 🐍
-- Database management with MongoDB. 🗄️
-- Best practices in software development. 🛠️
-- Tips and tricks for new programmers. 💡
-- How to create engaging educational content for programming students. 🎥
+- Node.js / Express.js
+- Gym Stuff
 
 ## My Tech Stack
 - **Backend:** Node.js, Express.js, Python ⚙️
@@ -29,4 +27,4 @@ My curiosity in the tech world keeps me exploring and innovating continuously. �
 - **Twitter:** [You better not want my tw](https://twitter.com/your-handle) 🐦
 
 ## Fun Fact About Me
-I believe that the best way to learn is by teaching, which is why I always strive to stay ahead in the tech game to bring fresh insights to my students. 🎉 When I'm not coding or teaching, you can find me being a bs gym goer. 🤓
+I believe that the best way to learn is by teaching, which is why I always strive to stay ahead in the tech game to bring fresh insights to my students. 🎉 When I'm not coding or teaching, you can find me beating the f*%!ng logbook. 
