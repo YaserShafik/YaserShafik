@@ -6,6 +6,18 @@ My constant motivation to learn and grow is driven by my desire to provide new a
 I love sharing my knowledge and tech curiosities on social media, fostering a community of learners and tech enthusiasts. 🌐 
 My curiosity in the tech world keeps me exploring and innovating continuously. 🚀
 
+
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="SQL" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50"/>
+</p>
+
 ## My Objectives
 - To continuously improve my backend development skills and stay updated with the latest technologies. 
 - To create and share educational content that helps my students and the wider community grow their programming skills. 
