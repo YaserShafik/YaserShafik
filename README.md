@@ -21,7 +21,7 @@ My curiosity in the tech world keeps me exploring and innovating continuously. ð
 ## My Objectives
 - To continuously improve my backend development skills and stay updated with the latest technologies. 
 - To create and share educational content that helps my students and the wider community grow their programming skills. 
-- Learn ElasticSearch. 
+- Learn unit testing using Jest. 
 - To contribute to open source projects that make a difference. 
 
 ## Ask Me About
