@@ -31,6 +31,7 @@ I chose New York because it's the heart of the startup world, where innovation i
 - **Backend:** Node.js, Express.js, Python ⚙️
 - **Database:** MongoDB, SQL 🗃️
 - **Others:** Docker, Git, RESTful APIs 🧰
+- **Testing:** Jest 🧪
 
 ## How to Contact Me
 - **Email:** [contactoyaser@gmail.com](mailto:contactoyaser@gmail.com) 📧
