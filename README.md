@@ -1,10 +1,10 @@
 # Hi there! 👋
 
 ## General Description
-I'm a passionate Backend Developer specialized in Node.js, Express.js and MongoDB. 💻 
-My constant motivation to learn and grow is driven by my desire to provide new and engaging content for my students. 📚 
-I love sharing my knowledge and tech curiosities on social media, fostering a community of learners and tech enthusiasts. 🌐 
-My curiosity in the tech world keeps me exploring and innovating continuously. 🚀
+Hey, I’m a backend developer from Spain with one clear mission: to add value. Moving to New York wasn’t just about a change of scenery—it was about being where the best ideas take shape. 
+
+I chose New York because it's the heart of the startup world, where innovation is constant, and where the potential for growth is limitless. I thrive in environments that challenge me, and there’s no better place than here to learn from the best and contribute to building something that lasts.
+
 
 
 <p align="center">
