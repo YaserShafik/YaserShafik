@@ -19,10 +19,9 @@ My curiosity in the tech world keeps me exploring and innovating continuously. ð
 </p>
 
 ## My Objectives
-- To continuously improve my backend development skills and stay updated with the latest technologies. 
-- To create and share educational content that helps my students and the wider community grow their programming skills. 
+- Completing my microservices app and sharing how it goes through Dev.to
+- To share all my journey to get a work in NY.
 - Learn unit testing using Jest. 
-- To contribute to open source projects that make a difference. 
 
 ## Ask Me About
 - Node.js / Express.js
