@@ -20,7 +20,7 @@ I chose New York because it's the heart of the startup world, where innovation i
 
 ## My Objectives
 - Completing my microservices app and sharing how it goes through Dev.to
-- To share all my journey to get a work in NY.
+- Continuously participate in hackathons to enhance my skills, collaborate with diverse teams, and contribute meaningful code to open-source projects, fostering a positive impact on the developer community.
 - Learn unit testing using Jest. 
 
 ## Ask Me About
